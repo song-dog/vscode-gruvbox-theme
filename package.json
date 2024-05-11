@@ -1,5 +1,5 @@
 {
-  "name": "vscode-gruvbox-theme",
+  "name": "gruvbox-theme-vscode",
   "displayName": "Gruvbox Theme for VS Code",
   "description": "Retro color theme based on the Gruvbox palette",
   "version": "0.0.2",
@@ -14,18 +14,18 @@
   },
 	"badges": [
     {
-      "url": "https://vsmarketplacebadges.dev/version-short/coyote.vscode-gruvbox-theme.svg",
-      "href": "https://marketplace.visualstudio.com/items?itemName=coyote.vscode-gruvbox-theme",
+      "url": "https://vsmarketplacebadges.dev/version-short/coyote-studios.vscode-gruvbox-theme.svg",
+      "href": "https://marketplace.visualstudio.com/items?itemName=coyote-studios.gruvbox-theme-vscode",
       "description": "Visual Studio Marketplace Version"
     },
     {
-      "url": "https://vsmarketplacebadges.dev/installs-short/coyote.vscode-gruvbox-theme.svg",
-      "href": "https://marketplace.visualstudio.com/items?itemName=coyote.vscode-gruvbox-theme",
+      "url": "https://vsmarketplacebadges.dev/installs-short/coyote-studios.vscode-gruvbox-theme.svg",
+      "href": "https://marketplace.visualstudio.com/items?itemName=coyote-studios.gruvbox-theme-vscode",
       "description": "Visual Studio Marketplace Installs"
     },
     {
-      "url": "https://vsmarketplacebadges.dev/rating-short/coyote.vscode-gruvbox-theme.svg",
-      "href": "https://marketplace.visualstudio.com/items?itemName=coyote.vscode-gruvbox-theme",
+      "url": "https://vsmarketplacebadges.dev/rating-short/coyote-studios.vscode-gruvbox-theme.svg",
+      "href": "https://marketplace.visualstudio.com/items?itemName=coyote-studios.gruvbox-theme-vscode",
       "description": "Visual Studio Marketplace Rating"
     }
   ],
