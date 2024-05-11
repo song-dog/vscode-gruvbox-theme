@@ -1,0 +1,87 @@
+{
+  "name": "vscode-gruvbox-theme",
+  "displayName": "Gruvbox Theme for VS Code",
+  "description": "Retro color theme based on the Gruvbox palette",
+  "version": "0.0.2",
+  "author": {
+    "name": "coyote",
+    "email": "coyote@coyotestudios.xyz",
+    "url": "https://coyotestudios.xyz"
+  },
+  "publisher": "coyote-studios",
+  "engines": {
+    "vscode": "^1.88.0"
+  },
+	"badges": [
+    {
+      "url": "https://vsmarketplacebadges.dev/version-short/coyote.vscode-gruvbox-theme.svg",
+      "href": "https://marketplace.visualstudio.com/items?itemName=coyote.vscode-gruvbox-theme",
+      "description": "Visual Studio Marketplace Version"
+    },
+    {
+      "url": "https://vsmarketplacebadges.dev/installs-short/coyote.vscode-gruvbox-theme.svg",
+      "href": "https://marketplace.visualstudio.com/items?itemName=coyote.vscode-gruvbox-theme",
+      "description": "Visual Studio Marketplace Installs"
+    },
+    {
+      "url": "https://vsmarketplacebadges.dev/rating-short/coyote.vscode-gruvbox-theme.svg",
+      "href": "https://marketplace.visualstudio.com/items?itemName=coyote.vscode-gruvbox-theme",
+      "description": "Visual Studio Marketplace Rating"
+    }
+  ],
+	"keywords": [
+		"gruvbox",
+		"theme",
+		"color",
+		"palette",
+		"retro"
+	],
+  "categories": [
+    "Themes"
+  ],
+  "icon": "images/icon.webp",
+  "galleryBanner": {
+    "color": "#3c3836",
+    "theme": "dark"
+  },
+  "homepage": "https://github.com/song-dog/vscode-gruvbox-theme/README.md",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/song-dog/vscode-gruvbox-theme.git"
+	},
+  "contributes": {
+    "themes": [
+			{
+				"label": "Gruvbox Dark Medium",
+				"uiTheme": "vs-dark",
+				"path": "./themes/gruvbox-dark-medium.json"
+			},
+			{
+				"label": "Gruvbox Dark Hard",
+				"uiTheme": "vs-dark",
+				"path": "./themes/gruvbox-dark-hard.json"
+			},
+			{
+				"label": "Gruvbox Dark Soft",
+				"uiTheme": "vs-dark",
+				"path": "./themes/gruvbox-dark-soft.json"
+			},
+			{
+				"label": "Gruvbox Light Medium",
+				"uiTheme": "vs",
+				"path": "./themes/gruvbox-light-medium.json"
+			},
+			{
+				"label": "Gruvbox Light Hard",
+				"uiTheme": "vs",
+				"path": "./themes/gruvbox-light-hard.json"
+			},
+			{
+				"label": "Gruvbox Light Soft",
+				"uiTheme": "vs",
+				"path": "./themes/gruvbox-light-soft.json"
+			}
+		]
+  },
+  "license": "SEE LICENSE IN LICENSE"
+}
