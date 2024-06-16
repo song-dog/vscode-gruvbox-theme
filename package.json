@@ -2,7 +2,7 @@
   "name": "gruvbox-theme-vscode",
   "displayName": "Gruvbox Theme for VS Code",
   "description": "Retro color theme based on the Gruvbox palette",
-  "version": "0.0.2",
+  "version": "0.0.4",
   "author": {
     "name": "coyote",
     "email": "coyote@coyotestudios.xyz",
